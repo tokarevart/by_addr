@@ -25,6 +25,8 @@ This crate DOES depend on libstd, unlike original [`by_address`] crate,
 so it can not be used in [`no_std`] projects.
 
 [`no_std`]: https://doc.rust-lang.org/book/first-edition/using-rust-without-the-standard-library.html
+[`by_address`]: https://docs.rs/by_address/1.0.4/by_address/
+[ByAddr]: struct.ByAddr.html
 
 ## License
 
